@@ -8,7 +8,7 @@ All solutions are implemented in **[your preferred languages]**.
 - Data Structures
 
 ## 📌 How to Use:
-1. Clone the repository: https://github.com/abhinav-2705/HackerRank-Solutions-PROBLEM-SOLVING.git
+1. Clone the repository: https://github.com/abhinav-2705/HackerRank-Solutions-PROBLEM-SOLVING-.git
 2. Browse solutions by topic/language.
 
 ## 💡 Notes:
